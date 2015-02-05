@@ -1,8 +1,8 @@
-Symfony Standard Edition
+Symfony Angular Edition
 ========================
 
-Welcome to the Symfony Standard Edition - a fully-functional Symfony2
-application that you can use as the skeleton for your new applications.
+Welcome to the Symfony Angular Edition - a fully-functional Symfony2
+application that you can use as the skeleton for your new applications with angularJS framework.
 
 For details on how to download and get started with Symfony, see the
 [Installation][1] chapter of the Symfony Documentation.
@@ -10,7 +10,7 @@ For details on how to download and get started with Symfony, see the
 What's inside?
 --------------
 
-The Symfony Standard Edition is configured with the following defaults:
+The Symfony Angular Edition is configured with the following defaults:
 
   * An AppBundle you can use to start coding;
 
@@ -53,6 +53,8 @@ It comes pre-configured with the following bundles:
   * [**SensioGeneratorBundle**][13] (in dev/test env) - Adds code generation
     capabilities
 
+  * [**SpBowerBundle**][14] - Adds capability to use bower with your Symfony project
+
 All libraries and bundles included in the Symfony Standard Edition are
 released under the MIT or BSD license.
 
@@ -67,3 +69,4 @@ Enjoy!
 [11]: http://symfony.com/doc/2.6/cookbook/logging/monolog.html
 [12]: http://symfony.com/doc/2.6/cookbook/assetic/asset_management.html
 [13]: http://symfony.com/doc/2.6/bundles/SensioGeneratorBundle/index.html
+[14]: https://github.com/spea/spbowerbundle

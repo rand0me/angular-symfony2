@@ -4,8 +4,12 @@ Symfony Angular Edition
 Welcome to the Symfony Angular Edition - a fully-functional Symfony2
 application that you can use as the skeleton for your new applications with angularJS framework.
 
-For details on how to download and get started with Symfony, see the
-[Installation][1] chapter of the Symfony Documentation.
+How to get it to work?
+----------------------
+
+  * At first, clone this repo
+  * Then, you need a [**composer**][1] and [**bower**][2]
+  * When you ready with composer and bower, just make an ''install'' in the project's root directory
 
 What's inside?
 --------------
@@ -59,8 +63,8 @@ All libraries and bundles included in the Symfony Standard Edition are
 released under the MIT or BSD license.
 
 Enjoy!
-
-[1]:  http://symfony.com/doc/2.6/book/installation.html
+[1]:  http://getcomposer.org
+[2]:  http://bower.io
 [6]:  http://symfony.com/doc/2.6/bundles/SensioFrameworkExtraBundle/index.html
 [7]:  http://symfony.com/doc/2.6/book/doctrine.html
 [8]:  http://symfony.com/doc/2.6/book/templating.html

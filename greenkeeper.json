@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "src/AppBundle/Resources/public/components/angular/package.json"
+      ]
+    }
+  }
+}

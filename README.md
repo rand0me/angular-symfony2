@@ -1,6 +1,8 @@
 Symfony Angular Edition
 ========================
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/rand0me/angular-symfony2.svg)](https://greenkeeper.io/)
+
 Welcome to the Symfony Angular Edition - a fully-functional Symfony2
 application that you can use as the skeleton for your new applications with angularJS framework.
 
